@@ -1,0 +1,6 @@
+--2019-09-15 00:52:55--  ftp://cddis.gsfc.nasa.gov/gnss/data/daily/2019/brdc/brdc2580.19n.Z
+           => ‘brdc2580.19n.Z’
+Resolving cddis.gsfc.nasa.gov (cddis.gsfc.nasa.gov)... 2001:4d0:241a:442::52, 198.118.242.40
+Connecting to cddis.gsfc.nasa.gov (cddis.gsfc.nasa.gov)|2001:4d0:241a:442::52|:21... failed: Connection timed out.
+Connecting to cddis.gsfc.nasa.gov (cddis.gsfc.nasa.gov)|198.118.242.40|:21... connected.
+Logging in as anonymous ... 

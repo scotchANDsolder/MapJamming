@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data copyright 2019 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2019</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/39.5058214,-116.4605784/Lincoln Hwy, Eureka, NV 89316/@39.531288,-116.4404359,12.5z/data=!4m9!4m8!1m0!1m5!1m1!1s0x80a5295c6484d655:0xb1e476c86a85271a!2m2!1d-116.3435425!2d39.5261028!3e0!5m1!1e1?hl=en</url-->
+    <time>2019-09-24T09:31:28Z</time>
+  </metadata>
+  <wpt lat="39.5058214" lon="-116.4605784">
+    <name>Eureka</name>
+    <desc>Lincoln Hwy, Eureka, NV 89316, USA</desc>
+  </wpt>
+  <wpt lat="39.5261028" lon="-116.3435425">
+    <name>Lincoln Hwy</name>
+    <desc>Lincoln Hwy, Eureka, NV 89316, USA</desc>
+  </wpt>
+<rte>
+  <name>Eureka to Lincoln Hwy</name>
+  <rtept lat="39.5055663" lon="-116.4605027">
+    <name>RP001</name>
+  </rtept>
+</rte>
+</gpx>
